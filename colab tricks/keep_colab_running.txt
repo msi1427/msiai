@@ -1,0 +1,13 @@
+# Paste this JS code in your HTML console.
+# This keeps colab active by clicking on connect every 10 mins (interval time can be tuned).
+
+function ClickConnect() {
+  console.log('Working')
+  document
+    .querySelector('#top-toolbar > colab-connect-button')
+    .shadowRoot.querySelector('#connect')
+    .click()
+}
+setInterval(ClickConnect,600000); 
+
+# 10 mins
