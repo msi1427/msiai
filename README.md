@@ -6,3 +6,4 @@ colab_tricks => Tricks that I learned through experience and suggestions.<br/>
 helpful_links => Good tutorials or walkthrough I came across.<br/>
 dataset_list => Brief details on the datasets I worked on, working on and plan to work on.<br/>
 papers => papers I read or I need to read, there is a specified list for each domain.<br/>
+helpful_libraries => The libraries and APIs I found useful.<br/>

@@ -1,2 +1,0 @@
-Python Numpy Tutorial : https://cs231n.github.io/python-numpy-tutorial/
-Transformers Notebooks by Hugging Face : https://github.com/huggingface/transformers/tree/master/notebooks#-transformers-notebooks
