@@ -21,6 +21,11 @@ import pprint
 import matplotlib.pyplot as plt
 plt.rcParams['figure.figsize'] = [10, 5] #can be tuned
 ```
+```python
+from IPython.display import Image, YouTubeVideo
+Image(png_filename, width=256, height=256) # Height and Width can be tuned
+YouTubeVideo('G5JT16flZwM')
+```
 
 # NLTK (for corpus) and Gensim (word similarity)
 
