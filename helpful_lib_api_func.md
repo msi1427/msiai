@@ -26,7 +26,16 @@ from IPython.display import Image, YouTubeVideo
 Image(png_filename, width=256, height=256) # Height and Width can be tuned
 YouTubeVideo('G5JT16flZwM')
 ```
-
+```python
+# HTML Progress Bar
+from IPython.display import HTML, display
+def progress(loss,value, max=100):
+ return HTML(""" Batch loss :{loss}
+      <progress    
+value='{value}'max='{max}',style='width: 100%'>{value}
+      </progress>
+             """.format(loss=loss,value=value, max=max))
+```
 # NLTK (for corpus) and Gensim (word similarity)
 
 ```python
