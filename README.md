@@ -7,4 +7,5 @@ helpful_links => Good tutorials or walkthrough I came across.<br/>
 dataset_list => Brief details on the datasets I worked on, working on and plan to work on.<br/>
 papers => papers I read or I need to read, there is a specified list for each domain.<br/>
 helpful_lib_api_func => The libraries, APIs and functions I found useful.<br/>
+helpful_podcasts_interviews => Podcasts and interviews that I found thoughful. <br/>
 implementations => Useful implementations I found or I did on my own.<br/>
