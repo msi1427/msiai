@@ -12,6 +12,11 @@ import scipy as sp
 #operates on numpy useful for different types of scientific applications.
 ```
 
+# Interactive Python 
+```python
+import pdb; 
+pdb.set_trace()
+```
 
 # Visualization
 

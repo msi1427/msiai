@@ -1,9 +1,12 @@
 # Python
 Python Numpy Tutorial : https://cs231n.github.io/python-numpy-tutorial/ <br/>
 Matplotlib Gallery : https://matplotlib.org/gallery/index.html <br/>
+
+# PyTorch
 PyTorch Tutorial : https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html <br/>
-PyTorch Lightning Master Class : https://www.youtube.com/watch?v=OMDn66kM9Qc&list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2
+PyTorch Lightning Master Class : https://www.youtube.com/watch?v=OMDn66kM9Qc&list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2 <br/>
 PyTorch Lightning on GPUs Demo : https://www.youtube.com/watch?v=TM_jRrXYXxc <br/>
+FastAI v2 launch : https://www.fast.ai/2020/08/21/fastai2-launch/ <br/>
 
 # General
 Singular Value Decomposition (SVD) Tutorial : https://davetang.org/file/Singular_Value_Decomposition_Tutorial.pdf <br/>
