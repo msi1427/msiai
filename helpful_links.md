@@ -3,6 +3,9 @@ Singular Value Decomposition (SVD) Tutorial : https://davetang.org/file/Singular
 Big List of ML and NLP survey papers : https://github.com/NiuTrans/ABigSurvey <br/>
 Google AI regular updates : https://ai.googleblog.com/ <br/>
 GCP and Google Drive data exchange : https://medium.com/@philipplies/transferring-data-from-google-drive-to-google-cloud-storage-using-google-colab-96e088a8c041 <br/>
+AI Research weekly updates : https://www.youtube.com/playlist?list=PLnn6VZp3hqNvLVSASPDtEVeVTSB4DCmVA <br/>
+Personalized arxiv : http://www.arxiv-sanity.com/ <br/>
+Browse SOTA : https://paperswithcode.com/sota <br/>
 
 # Python
 Python Numpy Tutorial : https://cs231n.github.io/python-numpy-tutorial/ <br/>
@@ -19,16 +22,32 @@ Lit on GPUs Demo : https://www.youtube.com/watch?v=TM_jRrXYXxc <br/>
 fastai v2 launch : https://www.fast.ai/2020/08/21/fastai2-launch/ <br/>
 
 # Weights and Biases
-Weights and Biases + Lit => Lithttps://www.youtube.com/watch?v=hUXQm46TAKc <br/>
+Weights and Biases + Lit => https://www.youtube.com/watch?v=hUXQm46TAKc <br/>
 
 # NLP
-Start of Machine Translation : https://youtu.be/K-HfpsHPmvw
-Huggingface Transformers Documentation : https://huggingface.co/transformers <br/>
-Word Embeddings : https://medium.com/data-science-group-iitr/word-embedding-2d05d270b285 <br/>
-Access different Text Corpus using NLTK : https://www.nltk.org/book/ch02.html <br/>
+
+# General
+NLP Paper Repo : https://www.aclweb.org/anthology/ <br/>
 NLP Progress : http://nlpprogress.com/ <br/>
-DL for NLP best practices : https://ruder.io/deep-learning-nlp-best-practices/ <br/>
+
+# Theory
+Start of Machine Translation : https://youtu.be/K-HfpsHPmvw <br/>
+Statistical Machine Translation : http://statmt.org/ <br/>
+Word Embeddings : https://medium.com/data-science-group-iitr/word-embedding-2d05d270b285 <br/>
+Universal Dependencies : https://universaldependencies.org/ <br/>
+XL-Net : https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335 <br/>
 T5 : Text-To-Text Transfer Transformer Model : https://towardsdatascience.com/t5-text-to-text-transfer-transformer-643f89e8905e <br/>
+
+# Implementation
+DL for NLP best practices : https://ruder.io/deep-learning-nlp-best-practices/ <br/>
+NLP datasets (1) : https://machinelearningmastery.com/datasets-natural-language-processing/ <br/>
+NLP datasets (2) : https://github.com/niderhoff/nlp-datasets <br/>
+Benchmark of NLP tasks : https://gluebenchmark.com/tasks <br/>
+Huggingface Transformers Documentation : https://huggingface.co/transformers <br/>
+Lit + huggingface + wandb : https://www.youtube.com/watch?v=G3pOvrKkFuk <br/>
+Access different Text Corpus using NLTK : https://www.nltk.org/book/ch02.html <br/>
+NLP Corpus : https://catalog.ldc.upenn.edu/ <br/>
+bAbI project : https://research.fb.com/downloads/babi/ <br/>
 
 # Vision
 Vision Transformer source : https://github.com/google-research/vision_transformer <br/>
