@@ -1,10 +1,16 @@
 # use them at the beginning (Jeremy's suggestion)
 
+# %matplotlib inline:: Ensures that all matplotlib plots will be plotted in the output cell within the notebook and will be kept in the notebook when saved.
 %reload_ext autoreload
 %autoreload 2
 %matplotlib inline
 
 bs = 8
+
+#tricks
+
+%timeit [i+1 for i in range(1000)] # Runs a line ten thousand times and displays the average time it took to run.
+%debug # Inspects a function which is showing an error using the Python debugger. If you type this in a cell just after an error, you will be directed to a console where you can inspect the values of all the variables.
 
 # seed all
 

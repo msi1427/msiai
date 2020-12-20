@@ -32,6 +32,11 @@ Image(png_filename, width=256, height=256) # Height and Width can be tuned
 YouTubeVideo('G5JT16flZwM')
 ```
 ```python
+# direct image show
+from PIL import Image
+Image.open('give image path')
+```
+```python
 # HTML Progress Bar
 from IPython.display import HTML, display
 def progress(loss,value, max=100):

@@ -13,6 +13,7 @@ Matplotlib Gallery : https://matplotlib.org/gallery/index.html <br/>
 
 # PyTorch
 PyTorch Tutorial : https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html <br/>
+PyTorch Basic Walkthrough : https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4 <br/>
 
 # Pytorch Lightning (Lit)
 Lit Master Class : https://www.youtube.com/watch?v=OMDn66kM9Qc&list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2 <br/>
@@ -20,8 +21,10 @@ Lit on GPUs Demo : https://www.youtube.com/watch?v=TM_jRrXYXxc <br/>
 
 # fastai
 fastai v2 launch : https://www.fast.ai/2020/08/21/fastai2-launch/ <br/>
+fastai v2 book : https://github.com/fastai/fastbook <br/>
+fastai datasets : https://course.fast.ai/datasets <br/>
 
-# Weights and Biases
+# Weights and Biases (wandb)
 Weights and Biases + Lit => https://www.youtube.com/watch?v=hUXQm46TAKc <br/>
 
 # NLP

@@ -16,4 +16,6 @@ MODEL_CLASSES = {
     
 model_type = 'distilbert'
 
+model_name = 'distilbert-base-cased'
+
 model_class, tokenizer_class, config_class = MODEL_CLASSES[model_type]
