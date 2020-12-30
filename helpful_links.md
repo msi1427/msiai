@@ -1,12 +1,12 @@
 # === General ===
-DL topics in brief : http://deeplearning.stanford.edu/tutorial/ <br/>
-Singular Value Decomposition (SVD) Tutorial : https://davetang.org/file/Singular_Value_Decomposition_Tutorial.pdf <br/>
+DL topics in brief : http://deeplearning.stanford.edu/tutorial/ <br/>Singular Value Decomposition (SVD) Tutorial : https://davetang.org/file/Singular_Value_Decomposition_Tutorial.pdf <br/>
 Big List of ML and NLP survey papers : https://github.com/NiuTrans/ABigSurvey <br/>
 Google AI regular updates : https://ai.googleblog.com/ <br/>
 GCP and Google Drive data exchange : https://medium.com/@philipplies/transferring-data-from-google-drive-to-google-cloud-storage-using-google-colab-96e088a8c041 <br/>
 AI Research weekly updates : https://www.youtube.com/playlist?list=PLnn6VZp3hqNvLVSASPDtEVeVTSB4DCmVA <br/>
 Personalized arxiv : http://www.arxiv-sanity.com/ <br/>
 Browse SOTA : https://paperswithcode.com/sota <br/>
+Best AI papers of 2020 : https://github.com/louisfb01/Best_AI_paper_2020 <br/>
 
 # === Books ===
 Dive into DL (UCB) : https://d2l.ai/index.html <br/>
@@ -60,12 +60,13 @@ bAbI project : https://research.fb.com/downloads/babi/ <br/>
 
 # Implementation
 DL for NLP best practices : https://ruder.io/deep-learning-nlp-best-practices/ <br/>
+NLP implementation tutorial : https://github.com/graykode/nlp-tutorial <br/>
 Huggingface Transformers Documentation : https://huggingface.co/transformers <br/>
 Pytorch + huggingface : https://youtu.be/oreIJQZ40H0 <br/>
-Lit + huggingface : https://www.youtube.com/watch?v=G3pOvrKkFuk <br/>
+Lit + huggingface : https://www.youtube.com/watch?v=G3pOvrKkFuk <br/>Contextual Chatbot using Rasa : https://www.youtube.com/playlist?list=PL75e0qA87dlHQny7z43NduZHPo6qd-cRc <br/>
 
 # === Vision ===
-Vision Transformer : https://deepai.org/publication/pre-trained-image-processing-transformer <br/>
+Boosting Image Classification accuracy : https://medium.com/intelligentmachines/boosting-image-classification-accuracy-29d1f23a2a29 <br/>Vision Transformer : https://deepai.org/publication/pre-trained-image-processing-transformer <br/>
 ViT source : https://github.com/google-research/vision_transformer <br/>
 
 # === Generative Adversarial Networks ===
