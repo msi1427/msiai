@@ -45,7 +45,7 @@ Word Embeddings : https://medium.com/data-science-group-iitr/word-embedding-2d05
 Universal Dependencies : https://universaldependencies.org/ <br/>
 
 # Transformers
-Transformer : http://jalammar.github.io/illustrated-transformer/ <br/>
+Transformer sources :https://threadreaderapp.com/thread/1344633106867884033.html <br/>Transformer : http://jalammar.github.io/illustrated-transformer/ <br/>
 Transformer Language Model : https://www.youtube.com/watch?v=-QH8fRhqFHM <br/>
 XL-Net : https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335 <br/>
 T5 (Text-To-Text Transfer Transformer ) https://towardsdatascience.com/t5-text-to-text-transfer-transformer-643f89e8905e <br/>
