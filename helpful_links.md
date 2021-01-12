@@ -36,7 +36,7 @@ Weights and Biases + Lit => https://www.youtube.com/watch?v=hUXQm46TAKc <br/>
 
 # General
 NLP Paper Repo : https://www.aclweb.org/anthology/ <br/>
-NLP Progress : http://nlpprogress.com/ <br/>
+NLP Progress : http://nlpprogress.com/ <br/>Text Style Transfer Base List : https://github.com/zhijing-jin/Text_Style_Transfer_Survey <br/>Text Summarization Base List : https://github.com/mathsyouth/awesome-text-summarization <br/>Stanford NLP Seminars : https://nlp.stanford.edu/seminar/ <br/>
 
 # Basics 
 Start of Machine Translation : https://youtu.be/K-HfpsHPmvw <br/>
@@ -51,6 +51,7 @@ XL-Net : https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-ber
 T5 (Text-To-Text Transfer Transformer ) https://towardsdatascience.com/t5-text-to-text-transfer-transformer-643f89e8905e <br/>
 
 # Datasets and Benchmarks
+
 NLP datasets (1) : https://machinelearningmastery.com/datasets-natural-language-processing/ <br/>
 NLP datasets (2) : https://github.com/niderhoff/nlp-datasets <br/>
 Benchmark of NLP tasks : https://gluebenchmark.com/tasks <br/>

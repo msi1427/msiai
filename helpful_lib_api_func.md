@@ -46,6 +46,12 @@ value='{value}'max='{max}',style='width: 100%'>{value}
       </progress>
              """.format(loss=loss,value=value, max=max))
 ```
+```python
+# visualizing sequence of computation in pytorch autograd
+import torchviz
+from torchviz import make_dot
+```
+
 # NLTK (for corpus) and Gensim (word similarity)
 
 ```python
@@ -73,7 +79,7 @@ random.seed(0)
 from sklearn.decomposition import TruncatedSVD
 from sklearn.decomposition import PCA
 ```
- 
+
 # Useful functions of the libraries
 ```python
 # NUMPY LIB
@@ -81,4 +87,4 @@ np.unique()
 # finds the distinct elements of a numpy array and return a flattened sorted list by default (additionally we can get the frequency counts also)
 np.multiply() # element-wise multiplication
 np.dot() # matrix multiplication
-```  
+```
