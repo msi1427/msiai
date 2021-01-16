@@ -60,7 +60,7 @@ NLP Corpus : https://catalog.ldc.upenn.edu/ <br/>
 bAbI project : https://research.fb.com/downloads/babi/ <br/>
 
 # Implementation
-DL for NLP best practices : https://ruder.io/deep-learning-nlp-best-practices/ <br/>
+Transformer PyToch Implementation : https://nlp.seas.harvard.edu/2018/04/03/attention.html <br/>DL for NLP best practices : https://ruder.io/deep-learning-nlp-best-practices/ <br/>
 NLP implementation tutorial : https://github.com/graykode/nlp-tutorial <br/>
 Huggingface Transformers Documentation : https://huggingface.co/transformers <br/>
 Pytorch + huggingface : https://youtu.be/oreIJQZ40H0 <br/>
