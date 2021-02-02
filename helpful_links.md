@@ -1,12 +1,17 @@
+# Check out my works at
+
+YouTube Channel: https://www.youtube.com/channel/UChWMYwGZ8KgvP7wsb_Lqthg <br/>Twitter: https://twitter.com/msi__bertman <br/>
+
 # === General ===
-DL topics in brief : http://deeplearning.stanford.edu/tutorial/ <br/>Singular Value Decomposition (SVD) Tutorial : https://davetang.org/file/Singular_Value_Decomposition_Tutorial.pdf <br/>
+
+How to get started with ML | 2021 : https://www.youtube.com/watch?v=7q_OJvQQ7vY <br/>DL topics in brief : http://deeplearning.stanford.edu/tutorial/ <br/>Singular Value Decomposition (SVD) Tutorial : https://davetang.org/file/Singular_Value_Decomposition_Tutorial.pdf <br/>
 Big List of ML and NLP survey papers : https://github.com/NiuTrans/ABigSurvey <br/>
 Google AI regular updates : https://ai.googleblog.com/ <br/>
 GCP and Google Drive data exchange : https://medium.com/@philipplies/transferring-data-from-google-drive-to-google-cloud-storage-using-google-colab-96e088a8c041 <br/>
 AI Research weekly updates : https://www.youtube.com/playlist?list=PLnn6VZp3hqNvLVSASPDtEVeVTSB4DCmVA <br/>
 Personalized arxiv : http://www.arxiv-sanity.com/ <br/>
 Browse SOTA : https://paperswithcode.com/sota <br/>
-Best AI papers of 2020 : https://github.com/louisfb01/Best_AI_paper_2020 <br/>
+Best AI papers of 2020 : https://github.com/louisfb01/Best_AI_paper_2020 <br/>Best of ML with Python : https://github.com/ml-tooling/best-of-ml-python <br/>
 
 # === Books ===
 Dive into DL (UCB) : https://d2l.ai/index.html <br/>
@@ -71,4 +76,4 @@ Boosting Image Classification accuracy : https://medium.com/intelligentmachines/
 ViT source : https://github.com/google-research/vision_transformer <br/>
 
 # === Generative Adversarial Networks ===
-Into to GAN and pretrained GANs : https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C1W1_(Colab)_Inputs_to_a_pre_trained_GAN.ipynb <br/>
+Random Fake People : https://thispersondoesnotexist.com/ <br/>Into to GAN and pretrained GANs : https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C1W1_(Colab)_Inputs_to_a_pre_trained_GAN.ipynb <br/>
