@@ -1,18 +1,45 @@
 # Useful Libraries
 Use "!pip install <library_name>" or "!pip install <library_name> == <version_no>" if not found
 
-# General Use
+# General Use (for ML)
 ```python
 import numpy as np 
 #great in matrix operations
+
 import pandas as pd 
-#great for loading data but very cumbersome and problematic at operations. 
-#Preferred not to use for operation. Convert to numpy array before operations.
+#great for loading data and visualizing but cumbersome at heavy operations. 
+#Preferred not to use for operation. Convert to numpy array before heavy operations.
+
 import scipy as sp
 #operates on numpy useful for different types of scientific applications.
+
+import torch 
+#PyTorch Framework
+
+import fastai
+#An intuitive layered API built on PyTorch
+
+import ml_collections
+#Library of Python Collections designed for ML use cases.
+
+import transformers
+#Huggingface Transformers [NLP]
+
+import datasets
+#Huggingface Dataset and Evaluation Metrics [NLP]
+
+import ohmeow-blurr
+#integrates huggingface transformers with fastai2 [NLP]
+
+import vision_transformer_pytorch
+#Visual Transformer stuctures in PyTorch [Vision]
+
+import wandb
+#Weights and Biases for Tracking Experiments
 ```
 
-# Interactive Python 
+# Python Debugger 
+
 ```python
 import pdb; 
 pdb.set_trace()
@@ -32,7 +59,7 @@ Image(png_filename, width=256, height=256) # Height and Width can be tuned
 YouTubeVideo('G5JT16flZwM')
 ```
 ```python
-# direct image show
+# PIL stands for Python Imaging Library.
 from PIL import Image
 Image.open('give image path')
 ```
@@ -81,8 +108,10 @@ from sklearn.decomposition import PCA
 ```
 
 # Useful functions of the libraries
+
+**NumPy**
+
 ```python
-# NUMPY LIB
 np.unique() 
 # finds the distinct elements of a numpy array and return a flattened sorted list by default (additionally we can get the frequency counts also)
 np.multiply() # element-wise multiplication

@@ -11,11 +11,12 @@ GCP and Google Drive data exchange : https://medium.com/@philipplies/transferrin
 AI Research weekly updates : https://www.youtube.com/playlist?list=PLnn6VZp3hqNvLVSASPDtEVeVTSB4DCmVA <br/>
 Personalized arxiv : http://www.arxiv-sanity.com/ <br/>
 Browse SOTA : https://paperswithcode.com/sota <br/>
-Best AI papers of 2020 : https://github.com/louisfb01/Best_AI_paper_2020 <br/>Best of ML with Python : https://github.com/ml-tooling/best-of-ml-python <br/>
+Best AI papers of 2020 : https://github.com/louisfb01/Best_AI_paper_2020 <br/>Best of ML with Python : https://github.com/ml-tooling/best-of-ml-python <br/>Fast way to write blogs with notebooks: https://github.com/fastai/fastpages <br/>
+
+
 
 # === Books ===
-Dive into DL (UCB) : https://d2l.ai/index.html <br/>
-DL - Goodfellow : https://www.deeplearningbook.org/ <br/>
+Deep Learning - Goodfellow : https://www.deeplearningbook.org/ <br/>
 
 # === Python ===
 Python Numpy Tutorial : https://cs231n.github.io/python-numpy-tutorial/ <br/>
@@ -32,7 +33,7 @@ Lit on GPUs Demo : https://www.youtube.com/watch?v=TM_jRrXYXxc <br/>
 # === fastai ===
 fastai v2 launch : https://www.fast.ai/2020/08/21/fastai2-launch/ <br/>
 fastai v2 book : https://github.com/fastai/fastbook <br/>
-fastai datasets : https://course.fast.ai/datasets <br/>
+fastai datasets : https://course.fast.ai/datasets <br/>Blurr : (fastai2 meets Huggingface) https://ohmeow.github.io/blurr// <br/>
 
 # === Weights and Biases (wandb) ===
 Weights and Biases + Lit => https://www.youtube.com/watch?v=hUXQm46TAKc <br/>
@@ -50,8 +51,7 @@ Word Embeddings : https://medium.com/data-science-group-iitr/word-embedding-2d05
 Universal Dependencies : https://universaldependencies.org/ <br/>
 
 # Transformers
-Transformer sources :https://threadreaderapp.com/thread/1344633106867884033.html <br/>Transformer : http://jalammar.github.io/illustrated-transformer/ <br/>
-Transformer Language Model : https://www.youtube.com/watch?v=-QH8fRhqFHM <br/>
+Transformer sources :https://threadreaderapp.com/thread/1344633106867884033.html <br/>Transformer : http://jalammar.github.io/illustrated-transformer/ <br/>Transformer Demo : https://www.youtube.com/watch?v=4Bdc55j80l8 <br/>Transformer Language Model : https://www.youtube.com/watch?v=-QH8fRhqFHM <br/>
 XL-Net : https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335 <br/>
 T5 (Text-To-Text Transfer Transformer ) https://towardsdatascience.com/t5-text-to-text-transfer-transformer-643f89e8905e <br/>
 
@@ -73,7 +73,7 @@ Lit + huggingface : https://www.youtube.com/watch?v=G3pOvrKkFuk <br/>Contextual 
 
 # === Vision ===
 Boosting Image Classification accuracy : https://medium.com/intelligentmachines/boosting-image-classification-accuracy-29d1f23a2a29 <br/>Vision Transformer : https://deepai.org/publication/pre-trained-image-processing-transformer <br/>
-ViT source : https://github.com/google-research/vision_transformer <br/>
+ViT source : https://github.com/google-research/vision_transformer <br/>DETR (DEtection TRansformer) : https://www.youtube.com/watch?v=T35ba_VXkMY <br/>
 
 # === Generative Adversarial Networks ===
 Random Fake People : https://thispersondoesnotexist.com/ <br/>Into to GAN and pretrained GANs : https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C1W1_(Colab)_Inputs_to_a_pre_trained_GAN.ipynb <br/>
