@@ -4,7 +4,7 @@
 from sklearn.metrics import confusion_matrix
 import seaborn as sns
 mat = confusion_matrix(predicted, actual)
-heat = sns.heatmap(mat,square=True,annot=True,fmt='d',cbar=True,cmap=plt.cm.gist_hea)
+heat = sns.heatmap(mat,square=True,annot=True,fmt='d',cbar=True,cmap=plt.cm.gist_heat)
 class_label=['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
                'Sandal', 'Shirt', 'Sneaker', 'Bag', 'Ankle boot']
 heat.set_xticklabels(class_label, rotation=90)
