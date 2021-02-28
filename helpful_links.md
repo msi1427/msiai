@@ -48,7 +48,7 @@ NLP Progress : http://nlpprogress.com/ <br/>Text Style Transfer Base List : http
 Start of Machine Translation : https://youtu.be/K-HfpsHPmvw <br/>
 Statistical Machine Translation : http://statmt.org/ <br/>
 Word Embeddings : https://medium.com/data-science-group-iitr/word-embedding-2d05d270b285 <br/>
-Universal Dependencies : https://universaldependencies.org/ <br/>
+Universal Dependencies : https://universaldependencies.org/ <br/>Coreference Resolution: https://stanfordnlp.github.io/CoreNLP/coref.html <br/>decaNLP : https://decanlp.com/ <br/>
 
 # Transformers
 Transformer sources :https://threadreaderapp.com/thread/1344633106867884033.html <br/>Transformer : http://jalammar.github.io/illustrated-transformer/ <br/>Transformer Demo : https://www.youtube.com/watch?v=4Bdc55j80l8 <br/>Transformer Language Model : https://www.youtube.com/watch?v=-QH8fRhqFHM <br/>
