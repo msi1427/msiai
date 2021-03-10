@@ -42,7 +42,7 @@ Weights and Biases + Lit => https://www.youtube.com/watch?v=hUXQm46TAKc <br/>
 
 # General
 NLP Paper Repo : https://www.aclweb.org/anthology/ <br/>
-NLP Progress : http://nlpprogress.com/ <br/>Text Style Transfer Base List : https://github.com/zhijing-jin/Text_Style_Transfer_Survey <br/>Text Summarization Base List : https://github.com/mathsyouth/awesome-text-summarization <br/>Stanford NLP Seminars : https://nlp.stanford.edu/seminar/ <br/>
+NLP Progress : http://nlpprogress.com/ <br/>Text Style Transfer Base List : https://github.com/zhijing-jin/Text_Style_Transfer_Survey <br/>Text Summarization Base List : https://github.com/mathsyouth/awesome-text-summarization <br/>Stanford NLP Seminars : https://nlp.stanford.edu/seminar/ <br/>Pretrained Language Model Papers Repo : https://github.com/thunlp/PLMpapers <br/>
 
 # Basics 
 Start of Machine Translation : https://youtu.be/K-HfpsHPmvw <br/>
