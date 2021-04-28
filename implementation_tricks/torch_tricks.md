@@ -37,3 +37,36 @@ x.backward() # automatically calculate the gradients
 x.grad # gradient
 ```
 
+# Einsum
+
+```python
+# Best alternative of matrix Multiplication
+'''
+queries shape: (N, query_len, heads, heads_dim)
+keys shape: (N, key_len, heads, heads_dim)
+energy shape: (N, heads, query_len, key_len)
+'''
+energy = torch.einsum("nqhd,nkhd -> nhqk", [queries,keys]) 
+# Sums the product of the elements of the input operands along dimensions specified using a notation based on the Einstein summation convention. For more visit documentation
+```
+
+# unsqueeze & tril
+
+```python
+# unsqueeze => Returns a new tensor with a dimension of size one inserted at the specified position
+x = torch.tensor([1, 2, 3, 4])
+torch.unsqueeze(x, 0)
+#tensor([[ 1,  2,  3,  4]])
+torch.unsqueeze(x, 1)
+#tensor([[ 1],
+#        [ 2],
+#        [ 3],
+#        [ 4]])
+```
+
+```python
+# Returns the lower triangular part of the matrix (2-D tensor) or batch of matrices input, the other elements of the result tensor out are set to 0.
+a = torch.randn(3, 3)
+torch.tril(a)
+```
+
