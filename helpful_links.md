@@ -17,8 +17,8 @@ Best AI papers of 2020 : https://github.com/louisfb01/Best_AI_paper_2020 <br/>Be
 Deep Learning - Goodfellow : https://www.deeplearningbook.org/ <br/>
 
 # === Python ===
-Python Numpy Tutorial : https://cs231n.github.io/python-numpy-tutorial/ <br/>
-Matplotlib Gallery : https://matplotlib.org/gallery/index.html <br/>
+Practice Python: https://www.hackerrank.com/domains/python <br/>Python Numpy Tutorial : https://cs231n.github.io/python-numpy-tutorial/ <br/>
+Matplotlib Gallery : https://matplotlib.org/gallery/index.html <br/>Python Graph Gallery: https://www.python-graph-gallery.com/ <br/>GeoPandas Tutorial: https://www.youtube.com/watch?v=AtyRmWdGhHE <br/>
 
 # === PyTorch ===
 PyTorch Tutorial : https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html <br/>
@@ -50,7 +50,7 @@ Universal Dependencies : https://universaldependencies.org/ <br/>Coreference Res
 
 # Topic Modeling
 
-LDA: https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/ <br/>LDA demystified: https://www.youtube.com/watch?v=3mHy4OSyRf0<br/>GuidedLDA: https://github.com/vi3k6i5/GuidedLDA <br/>Universal Sentence Encoder: https://towardsdatascience.com/use-cases-of-googles-universal-sentence-encoder-in-production-dd5aaab4fc15 <br/>SBERT: https://www.sbert.net/examples/applications/semantic-search/README.html <br/>Sentence Transformers: https://github.com/UKPLab/sentence-transformers <br/>
+LDA (Gensim): https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/ <br/>LDA (sklearn): https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/ <br/>LDA demystified: https://www.youtube.com/watch?v=3mHy4OSyRf0<br/>GuidedLDA: https://github.com/vi3k6i5/GuidedLDA <br/>Universal Sentence Encoder: https://towardsdatascience.com/use-cases-of-googles-universal-sentence-encoder-in-production-dd5aaab4fc15 <br/>SBERT: https://www.sbert.net/examples/applications/semantic-search/README.html <br/>Sentence Transformers: https://github.com/UKPLab/sentence-transformers <br/>
 
 # Text Classification
 

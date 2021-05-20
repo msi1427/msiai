@@ -36,6 +36,12 @@ import vision_transformer_pytorch
 
 import wandb
 #Weights and Biases for Tracking Experiments
+
+import time
+#Great to print out elapsed time
+
+import geopandas
+#Great to work with geospatial data in python
 ```
 
 # Python Debugger 
@@ -44,6 +50,18 @@ import wandb
 import pdb; 
 pdb.set_trace()
 ```
+
+# EDA (Exploratory Data Analysis)
+
+```python
+import matplotlib.pyplot as plt
+# Most commonly used library for any type of plots
+
+import seaborn as sns
+# Great to build visually intuitive plot
+```
+
+
 
 # Visualization
 
@@ -117,3 +135,17 @@ np.unique()
 np.multiply() # element-wise multiplication
 np.dot() # matrix multiplication
 ```
+
+**Time**
+
+```python
+import time
+start = time.time()
+
+time.sleep(10)
+
+done = time.time()
+elapsed = done - start
+print(elapsed)
+```
+
