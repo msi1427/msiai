@@ -11,7 +11,7 @@ GCP and Google Drive data exchange : https://medium.com/@philipplies/transferrin
 AI Research weekly updates : https://www.youtube.com/playlist?list=PLnn6VZp3hqNvLVSASPDtEVeVTSB4DCmVA <br/>
 Personalized arxiv : http://www.arxiv-sanity.com/ <br/>
 Browse SOTA : https://paperswithcode.com/sota <br/>
-Best AI papers of 2020 : https://github.com/louisfb01/Best_AI_paper_2020 <br/>Best of ML with Python : https://github.com/ml-tooling/best-of-ml-python <br/>Fast way to write blogs with notebooks: https://github.com/fastai/fastpages <br/>ML Interview: https://mlpro.io/ <br/>Data Scraping without Login: https://www.youtube.com/watch?v=cV21EOf5bbA <br/>Fuzzy String Matching: https://www.geeksforgeeks.org/fuzzywuzzy-python-library/ <br/>
+Best AI papers of 2020 : https://github.com/louisfb01/Best_AI_paper_2020 <br/>Best of ML with Python : https://github.com/ml-tooling/best-of-ml-python <br/>Fast way to write blogs with notebooks: https://github.com/fastai/fastpages <br/>ML Interview: https://mlpro.io/ <br/>Data Scraping without Login: https://www.youtube.com/watch?v=cV21EOf5bbA <br/>Fuzzy String Matching: https://www.geeksforgeeks.org/fuzzywuzzy-python-library/ <br/>RASA Algorithm Whiteboard: https://www.youtube.com/watch?v=wWNMST6t1TA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb <br/>
 
 # === Books ===
 Deep Learning - Goodfellow : https://www.deeplearningbook.org/ <br/>
@@ -52,6 +52,14 @@ Universal Dependencies : https://universaldependencies.org/ <br/>Coreference Res
 
 LDA (Gensim): https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/ <br/>LDA (sklearn): https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/ <br/>LDA demystified: https://www.youtube.com/watch?v=3mHy4OSyRf0<br/>GuidedLDA: https://github.com/vi3k6i5/GuidedLDA <br/>Universal Sentence Encoder: https://towardsdatascience.com/use-cases-of-googles-universal-sentence-encoder-in-production-dd5aaab4fc15 <br/>SBERT: https://www.sbert.net/examples/applications/semantic-search/README.html <br/>Sentence Transformers: https://github.com/UKPLab/sentence-transformers <br/>
 
+# Word Embeddings
+
+FastText: https://github.com/facebookresearch/fastText <br/>Bangla Spacy Toolkit: https://github.com/banglakit/spacy-models <br/>
+
+# Language Detection
+
+Polyglot Embeddings: http://blog.shriphani.com/2020/02/03/polyglot-word-embeddings-discover-language-clusters/ <br/>How to determine language in Python: https://stackoverflow.com/questions/39142778/python-how-to-determine-the-language <br/>
+
 # Text Classification
 
 Text Classification using BERT: http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/ <br/>
@@ -59,7 +67,11 @@ Text Classification using BERT: http://jalammar.github.io/a-visual-guide-to-usin
 # Transformers
 
 Transformer : http://jalammar.github.io/illustrated-transformer/ <br/>Transformer Demo : https://www.youtube.com/watch?v=4Bdc55j80l8 <br/>Transformer Language Model : https://www.youtube.com/watch?v=-QH8fRhqFHM <br/>Transformer from scratch: http://peterbloem.nl/blog/transformers <br/>BERT: http://jalammar.github.io/illustrated-bert/ <br/>XL-Net : https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335 <br/>
-T5 (Text-To-Text Transfer Transformer ) https://towardsdatascience.com/t5-text-to-text-transfer-transformer-643f89e8905e <br/>
+T5 (Text-To-Text Transfer Transformer ) https://towardsdatascience.com/t5-text-to-text-transfer-transformer-643f89e8905e <br/>Interpret Transformers: https://github.com/cdpierse/transformers-interpret <br/>
+
+# Chatbots - Dialogues
+
+Rasa : https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ <br/>
 
 # Datasets and Benchmarks
 
@@ -83,3 +95,23 @@ ViT source : https://github.com/google-research/vision_transformer <br/>DETR (DE
 
 # === Generative Adversarial Networks ===
 Random Fake People : https://thispersondoesnotexist.com/ <br/>Into to GAN and pretrained GANs : https://colab.research.google.com/github/https-deeplearning-ai/GANs-Public/blob/master/C1W1_(Colab)_Inputs_to_a_pre_trained_GAN.ipynb <br/>
+
+# === ML Operations (MLOps) ===
+
+Google Codelabs: https://codelabs.developers.google.com/ <br/>
+
+## Google Cloud Platform (GCP)
+
+Google Cloud for beginners: https://cloud.google.com/blog/topics/developers-practitioners/picture-10-whiteboard-sketch-videos-bring-google-cloud-life <br/>Introduction to GCP: https://www.youtube.com/watch?v=JtUIQz_EkUw <br/>
+
+## GCP : Firebase - Cloud Firestore 
+
+Official Walkthrough => https://www.youtube.com/watch?v=v_hR4K4auoQ&list=PLl-K7zZEsYLluG5MCVEzXAQ7ACZBCuZgZ <br/>Code First Walkthrough => https://www.youtube.com/watch?v=Hh4IAwcZBLM&list=PLs3IFJPw3G9LW-rGJ8EBMaCd8OxGm_qQe <br/>
+
+## Google App Engine
+
+Running Django on the App Engine: https://cloud.google.com/python/django/appengine <br/>Deploying Django App to Google App Engine : https://bennettgarner.medium.com/deploying-a-django-application-to-google-app-engine-f9c91a30bd35 <br/>
+
+## Streamlit
+
+Turn Python Scripts into ML Tools using Streamlit: https://www.youtube.com/watch?v=0It8phQ1gkQ <br/>
