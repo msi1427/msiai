@@ -50,7 +50,7 @@ Universal Dependencies : https://universaldependencies.org/ <br/>Coreference Res
 
 # Topic Modeling
 
-LDA (Gensim): https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/ <br/>LDA (sklearn): https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/ <br/>LDA demystified: https://www.youtube.com/watch?v=3mHy4OSyRf0<br/>GuidedLDA: https://guidedlda.readthedocs.io/en/latest/ <br/>Universal Sentence Encoder: https://towardsdatascience.com/use-cases-of-googles-universal-sentence-encoder-in-production-dd5aaab4fc15 <br/>SBERT: https://www.sbert.net/examples/applications/semantic-search/README.html <br/>Sentence Transformers: https://github.com/UKPLab/sentence-transformers <br/>
+LDA (Gensim): https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/ <br/>LDA (sklearn): https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/ <br/>LDA demystified: https://www.youtube.com/watch?v=3mHy4OSyRf0<br/>GuidedLDA: https://guidedlda.readthedocs.io/en/latest/ <br/>Universal Sentence Encoder: https://towardsdatascience.com/use-cases-of-googles-universal-sentence-encoder-in-production-dd5aaab4fc15 <br/>SBERT: https://www.sbert.net/examples/applications/semantic-search/README.html <br/>Sentence Transformers: https://github.com/UKPLab/sentence-transformers <br/>BERTopic: https://github.com/MaartenGr/BERTopic
 
 # Word Embeddings
 
@@ -82,7 +82,12 @@ Access different Text Corpus using NLTK : https://www.nltk.org/book/ch02.html <b
 NLP Corpus : https://catalog.ldc.upenn.edu/ <br/>
 bAbI project : https://research.fb.com/downloads/babi/ <br/>
 
+# Augmentation for NLP
+
+Practitioner Blog: https://neptune.ai/blog/data-augmentation-nlp <br/>Survey Paper: https://arxiv.org/pdf/2105.03075.pdf <br/>
+
 # Implementation
+
 Transformer PyToch Implementation : https://nlp.seas.harvard.edu/2018/04/03/attention.html <br/>DL for NLP best practices : https://ruder.io/deep-learning-nlp-best-practices/ <br/>
 NLP implementation tutorial : https://github.com/graykode/nlp-tutorial <br/>
 Huggingface Transformers Documentation : https://huggingface.co/transformers <br/>

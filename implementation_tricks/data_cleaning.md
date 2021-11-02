@@ -43,7 +43,7 @@ def normalize_whitespace(text, no_line_breaks=True):
     text = " ".join(text.split())
     return text
 
-def clean_data(data,stopwords=True):
+def clean_data(data,keep_stopwords=True):
     '''
     if you want stopwords to be removed put False
     '''
@@ -60,7 +60,7 @@ def clean_data(data,stopwords=True):
 
     data = [x.lower() for x in data]
     
-    if not stopwords: data = [remove_stopwords(sent) for sent in data]
+    if not keep_stopwords: data = [remove_stopwords(sent) for sent in data]
 
     data = [sent for sent in data if len(sent.split())!=0]
 
