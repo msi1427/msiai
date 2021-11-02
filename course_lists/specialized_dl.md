@@ -1,0 +1,14 @@
+
+
+| Course Name                                   | Offered By                      | Instructors      | Link                                                         | Personal Coverage | hand_notes, assignments and others | Personal Rating (out of 5) |
+| --------------------------------------------- | ------------------------------- | ---------------- | ------------------------------------------------------------ | ----------------- | ---------------------------------- | -------------------------- |
+| CS839 : Special Topics in Deep Learning, 2020 | University of Wisconsin Madison | Sharon Yixuan Li | [[YouTube PlayList](https://www.youtube.com/playlist?list=PLKvO2FVLnI9SYLe1umkXsOfIWmEez04Ii)] [[Course URL](http://pages.cs.wisc.edu/~sharonli/courses/cs839_fall2020/schedule.html)] | Week 1            |                                    |                            |
+|                                               |                                 |                  |                                                              |                   |                                    |                            |
+|                                               |                                 |                  |                                                              |                   |                                    |                            |
+|                                               |                                 |                  |                                                              |                   |                                    |                            |
+|                                               |                                 |                  |                                                              |                   |                                    |                            |
+|                                               |                                 |                  |                                                              |                   |                                    |                            |
+|                                               |                                 |                  |                                                              |                   |                                    |                            |
+|                                               |                                 |                  |                                                              |                   |                                    |                            |
+|                                               |                                 |                  |                                                              |                   |                                    |                            |
+
