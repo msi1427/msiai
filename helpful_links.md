@@ -11,14 +11,14 @@ GCP and Google Drive data exchange : https://medium.com/@philipplies/transferrin
 AI Research weekly updates : https://www.youtube.com/playlist?list=PLnn6VZp3hqNvLVSASPDtEVeVTSB4DCmVA <br/>
 Personalized arxiv : http://www.arxiv-sanity.com/ <br/>
 Browse SOTA : https://paperswithcode.com/sota <br/>
-Best AI papers of 2020 : https://github.com/louisfb01/Best_AI_paper_2020 <br/>Best of ML with Python : https://github.com/ml-tooling/best-of-ml-python <br/>Fast way to write blogs with notebooks: https://github.com/fastai/fastpages <br/>ML Interview: https://mlpro.io/ <br/>Data Scraping without Login: https://www.youtube.com/watch?v=cV21EOf5bbA <br/>Fuzzy String Matching: https://www.geeksforgeeks.org/fuzzywuzzy-python-library/ <br/>RASA Algorithm Whiteboard: https://www.youtube.com/watch?v=wWNMST6t1TA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb <br/>
+Best AI papers of 2020 : https://github.com/louisfb01/Best_AI_paper_2020 <br/>Best of ML with Python : https://github.com/ml-tooling/best-of-ml-python <br/>Fast way to write blogs with notebooks: https://github.com/fastai/fastpages <br/>ML Interview: https://mlpro.io/ <br/>Data Scraping without Login: https://www.youtube.com/watch?v=cV21EOf5bbA <br/>Fuzzy String Matching: https://www.geeksforgeeks.org/fuzzywuzzy-python-library/ <br/>RASA Algorithm Whiteboard: https://www.youtube.com/watch?v=wWNMST6t1TA&list=PL75e0qA87dlG-za8eLI6t0_Pbxafk-cxb <br/>Understanding softmax and negative log likelihood: https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/ <br/>
 
 # === Books ===
 Deep Learning - Goodfellow : https://www.deeplearningbook.org/ <br/>
 
 # === Python ===
 Practice Python: https://www.hackerrank.com/domains/python <br/>Python Numpy Tutorial : https://cs231n.github.io/python-numpy-tutorial/ <br/>
-Matplotlib Gallery : https://matplotlib.org/gallery/index.html <br/>Python Graph Gallery: https://www.python-graph-gallery.com/ <br/>GeoPandas Tutorial: https://www.youtube.com/watch?v=AtyRmWdGhHE <br/>
+Matplotlib Gallery : https://matplotlib.org/gallery/index.html <br/>Python Graph Gallery: https://www.python-graph-gallery.com/ <br/>GeoPandas Tutorial: https://www.youtube.com/watch?v=AtyRmWdGhHE <br/>Plotly: https://plotly.com/python/time-series/ <br/>
 
 # === PyTorch ===
 PyTorch Tutorial : https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html <br/>
@@ -67,7 +67,7 @@ Text Classification using BERT: http://jalammar.github.io/a-visual-guide-to-usin
 # Transformers
 
 Transformer : http://jalammar.github.io/illustrated-transformer/ <br/>Transformer Demo : https://www.youtube.com/watch?v=4Bdc55j80l8 <br/>Transformer Language Model : https://www.youtube.com/watch?v=-QH8fRhqFHM <br/>Transformer from scratch: http://peterbloem.nl/blog/transformers <br/>BERT: http://jalammar.github.io/illustrated-bert/ <br/>XL-Net : https://towardsdatascience.com/what-is-xlnet-and-why-it-outperforms-bert-8d8fce710335 <br/>
-T5 (Text-To-Text Transfer Transformer ) https://towardsdatascience.com/t5-text-to-text-transfer-transformer-643f89e8905e <br/>Interpret Transformers: https://github.com/cdpierse/transformers-interpret <br/>
+T5 (Text-To-Text Transfer Transformer ) https://towardsdatascience.com/t5-text-to-text-transfer-transformer-643f89e8905e <br/>Interpret Transformers: https://github.com/cdpierse/transformers-interpret <br/>Train a Language Model using HuggingFace: https://huggingface.co/blog/how-to-train <br/>
 
 # Chatbots - Dialogues
 
@@ -120,3 +120,7 @@ Running Django on the App Engine: https://cloud.google.com/python/django/appengi
 ## Streamlit
 
 Turn Python Scripts into ML Tools using Streamlit: https://www.youtube.com/watch?v=0It8phQ1gkQ <br/>
+
+# Miscellaneous
+
+Tips to give clear talks: https://graphics.stanford.edu/~kayvonf/misc/cleartalktips.pdf <br/>
